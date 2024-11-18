@@ -1,0 +1,136 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IPython history
+.ipython/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pyre type checker
+.pyre/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy/
+
+# Sphinx documentation
+docs/_build/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Qt-specific files
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
+*.qm
+*.ui
+.moc/
+*.qrc
+*.rcc
+
+# Possible sensitive files (passwords or secrets)
+*.key
+*.pem
+*.crt
+*.p12
+*.enc
+secrets.json
+*.env
+.env.*
+config.json
+config.yaml
+settings.py
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other system files
+*.~lock.*
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Generated files and folders
+*.log
+*.tmp
+*.bak
+*.swp
+
